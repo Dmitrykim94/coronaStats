@@ -1,3 +1,6 @@
+Used technologies: 
+React, react-hooks, chart.js && react-chartjs-2 libraries
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
